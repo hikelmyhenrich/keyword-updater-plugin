@@ -22,7 +22,7 @@ Este plugin é uma **extensão para o plugin [Internal Link Juicer](https://www.
 
 1. Baixe ou clone este repositório:
    ``
-   git clone https://github.com/seu-usuario/keyword-updater-plugin.git
+   git clone https://github.com/hikelmyhenrich/keyword-updater-plugin.git
 ``
 
 2. Envie a pasta `keyword-updater-plugin` para:
